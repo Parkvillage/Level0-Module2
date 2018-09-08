@@ -13,6 +13,7 @@ public class IntroToRandom {
 		//3. Now make r random.
 		Random randy=new Random();
 		r=randy.nextInt(322)+-222;
+	
 		//   Create an object of the Random class
 		//	 use .nextInt() to get a random number
 		
